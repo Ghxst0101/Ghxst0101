@@ -1,0 +1,17 @@
+{
+	"bolts.keyboard.typing": {
+		"sounds": [
+			"effects/keyboard"
+		]
+	},
+	"bolts.explosion.blast": {
+		"sounds": [
+			"effects/blast"
+		]
+	},
+	"bolts.ground.slam": {
+		"sounds": [
+			"effects/groundslam"
+		]
+	}
+}
